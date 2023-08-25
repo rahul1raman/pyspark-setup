@@ -1,4 +1,4 @@
-# de02-pyspark-optimization
+# pyspark-setup
 
 Spawn Spark and Jupyter notebook (spark 3.3.1 with bitnami version)
 ```bash
